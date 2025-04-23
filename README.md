@@ -1,24 +1,50 @@
-## Hi there 👋
-
-<# 💫 About Me:
-<br>🌱 I’m currently learning java Script
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=a1ffce&color2=faffd1&height=200&section=header&text=Hi%2C%20I%27m%20Tanvi%20Patel%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Frontend%20dev%20in%20progress%20%7C%20BCA%20student%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&descSize=20&descAlignY=55&descAlign=50)
 
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tanvi-patel18
- 
- ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvip.w.official@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanvii-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvii-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-patel18/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanvii-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=tanvii-18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+```java
+while (isAwake) {
+      📝 plan();
+     💻 Code & create();
+    ☕ Chai & debug();
+     🌙 Drift into dev dreams();
+}
+```
+
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=💻%20Tech%20Stack&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
+
+<details open>
+  <summary><h3>🌐 Frontend Development</h3></summary>
+
+  ![HTML5  |  CSS3  |  Bootstrap  |  JavaScript (🌱)](https://img.shields.io/badge/-HTML5__|__CSS3__|__Bootstrap__|__JavaScript_(🌱)-blue?style=for-the-badge&logo=html5--|--css3--|--bootstrap--|--javascript-(🌱)&logoColor=white)
+
+</details>
+
+![](https://capsule-render.vercel.app/api?type=venom&height=150&text=📊%20GitHub%20Stats&fontSize=40&color=gradient&color1=a1ffce&color2=faffd1&stroke=faffd1)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvii-18&show_icons=true&theme=graywhite" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvii-18&layout=compact&theme=graywhite" alt="Top Languages" height="170"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=graywhite" alt="GitHub Streak" height="170"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3><i> Grateful for your visit ! Explore the colors of my code and let’s stay connected. </i></h3>
+  <br>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=a1ffce&color2=faffd1&height=100&section=footer&fontSize=30&animation=scaleIn)
+
 
