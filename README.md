@@ -11,9 +11,9 @@
 ```java
 while (isAwake) {
       📝 plan();
-     💻 Code & create();
-    ☕ Chai & debug();
-     🌙 Drift into dev dreams();
+      💻 Code & create();
+      ☕ Chai & debug();
+      🌙 Drift into dev dreams();
 }
 ```
 
