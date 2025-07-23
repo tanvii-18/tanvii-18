@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&color1=a1ffce&color2=faffd1&height=200&section=header&text=Hi%2C%20I%27m%20Tanvi%20Patel%20&fontSize=50&animation=scaleIn&fontAlignY=35&desc=Frontend%20dev%20in%20progress!%20%&descAlignY=55&descAlign=50)
 
+<img width="1044" height="709" alt="Image" src="https://github.com/user-attachments/assets/9c5f1157-f05a-4165-95fa-8d9d258939d2" />
 
 <div align="center">
-
+ <h3>How to reach me :</h3>
+ 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-patel18/)
 
 </div>
