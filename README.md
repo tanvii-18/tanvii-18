@@ -9,7 +9,7 @@ while (isAwake) {
       🌙 Drift into dev dreams();
 }
 ```
-<h1>👩‍💻 About Me</h1>  
+<h2>👩‍💻 About Me</h2>  
 
 I’m a Full-stack developer who loves building interactive web applications and bringing ideas to life through code.  
 Passionate about clean design, smooth user experiences, and continuous growth as a developer.  
