@@ -9,6 +9,11 @@ while (isAwake) {
       🌙 Drift into dev dreams();
 }
 ```
+<h1>👩‍💻 About Me</h1>  
+
+I’m a Full-stack developer who loves building interactive web applications and bringing ideas to life through code.  
+Passionate about clean design, smooth user experiences, and continuous growth as a developer.  
+
 
 ![](https://capsule-render.vercel.app/api?type=venom&height=150&text=%20Tech%20Stack&fontSize=40&color=0:00FFFF,100:1E90FF&stroke=1E90FF)
 
