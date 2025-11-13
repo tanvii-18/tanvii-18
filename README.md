@@ -30,7 +30,7 @@ Passionate about clean design, smooth user experiences, and continuous growth as
 <a target="_blank" href="https://x.com/Tanvi_Patel18"><img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10808.jpg?semt=ais_incoming&w=740&q=80" alt="twitter"   width="40" height="40" /></a></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvii-18&show_icons=true&locale=en" alt="tanvii-18" /></p>
 <div align="center">
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/549eb1d3-bcbc-47f7-9c1f-cb311b006cb7" /> </div>
+<img width="320" height="320" alt="Image" src="https://github.com/user-attachments/assets/549eb1d3-bcbc-47f7-9c1f-cb311b006cb7" /> </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&" alt="tanvii-18" /></p>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvii-18" alt="tanvii-18" /></a></p>
 <div align="center">
