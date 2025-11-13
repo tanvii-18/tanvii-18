@@ -1,5 +1,5 @@
 <h1>Hi , I'm Tanvi Patel</h1>
-<p>A passionate Full-stack developer </p>
+<p>A passionate Full-stack web developer </p>
 
 ```java
 while (isAwake) {
