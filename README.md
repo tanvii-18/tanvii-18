@@ -26,6 +26,7 @@ Passionate about clean design, smooth user experiences, and continuous growth as
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="git" width="42" height="42" /></a></p>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+
 <h2>⚡️ Where to find me</h2>
 <p style="display: inline-block; gap:"22px" > <a target="_blank" href="https://www.linkedin.com/in/tanvi-patel18/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="linkedin"   width="40" height="40"/></a>
 <a target="_blank" href="https://x.com/Tanvi_Patel18"><img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10808.jpg?semt=ais_incoming&w=740&q=80" alt="twitter"   width="40" height="40" /></a></p>
