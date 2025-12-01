@@ -2,12 +2,7 @@
 <p>A passionate Full-stack web developer </p>
 
 ```java
-while (isAwake) {
-      📝 plan();
-      💻 Code & create();
-      ☕ Chai & debug();
-      🌙 Drift into dev dreams();
-}
+while (isAwake) { 📝 plan → 💻 create → 🐛 fix → 🌙 dream(); }
 ```
 <h2>👩‍💻 About Me</h2>  
 
