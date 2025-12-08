@@ -4,7 +4,7 @@
 I'm a full-stack developer and passionate learner who loves building interactive web applications and bringing ideas to life through code. Currently diving deep into the MERN stack, with a focus on React for smooth, responsive UIs and Node.js, Express, and MongoDB for robust backends. Always chasing clean design, seamless user experiences, and continuous growth as a developer.
 
 ## Contact Me
-<p><a href="in/tanvi-patel18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/Tanvi_Patel18" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> </p>
+<p><a href="in/tanvi-patel18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/Tanvi_Patel18" target="_blank"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24805464/F1x5VdQX0AA9Sgt.jpeg?quality=90&strip=all&crop=0,4.666666666667,100,66.666666666667" style="width: 30px; height: auto;" /></a> </p>
 
 ## Skills
 
