@@ -23,11 +23,8 @@ I'm a full-stack developer and passionate learner who loves building interactive
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanvii-18&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvii-18&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=tokyonight" alt="GitHub Streak" align="center"/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=tokyonight" alt="GitHub Streak" align="center"/>
+</div>
 
 ## GitHub Trophies
 
