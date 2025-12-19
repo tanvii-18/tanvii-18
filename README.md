@@ -23,8 +23,8 @@ I'm a full-stack developer and passionate learner who loves building interactive
 
 ## GitHub Stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=tokyonight" alt="GitHub Streak" align="center"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanvii18)](https://git.io/streak-stats)
+
 
 ## GitHub Trophies
 
