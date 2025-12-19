@@ -23,7 +23,7 @@ I'm a full-stack developer and passionate learner who loves building interactive
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanvii18)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tanvii-18&theme=dark)](https://git.io/streak-stats)
 
 
 ## GitHub Trophies
