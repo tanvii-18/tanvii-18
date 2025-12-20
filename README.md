@@ -16,7 +16,7 @@ I'm a full-stack developer and passionate learner who loves building interactive
 
 <div align="left">
 
-- 🌱 I'm currently learning **Sharpening backend prowess for scalable, secure MERN magic 🚀**
+Learning backend development with a focus on scalable and secure MERN stack applications.
 
 </div>
 
