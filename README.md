@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Tanvi Patel
+# Hi , I'm Tanvi Patel
 
 ### Junior Full-Stack Developer (MERN Stack)
 
