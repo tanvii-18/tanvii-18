@@ -57,13 +57,9 @@ Learning backend development with a focus on scalable and secure MERN stack appl
 
 <img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />
 
-###  Software
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
-
 ###  Other
 
-<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
+<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
 
 ## 📊 GitHub Stats & Activity
 
