@@ -25,7 +25,7 @@ Learning backend development with a focus on scalable and secure MERN stack appl
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/Tanvi_Patel18)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/tanvi-patel18/)&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvii.tech@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/Tanvi_Patel18)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-patel18/)&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvii.tech@gmail.com)
 
 </div>
 
