@@ -2,7 +2,7 @@
 
 # Hi , I'm Tanvi Patel
 
-### Junior Full-Stack Developer (MERN Stack)
+### Full-Stack Developer (MERN Stack)
 
 </div>
 
