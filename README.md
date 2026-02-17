@@ -55,15 +55,9 @@ Learning backend development with a focus on scalable and secure MERN stack appl
 
 
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 
 <div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=tanvii-18&theme=dark&column=7&margin-w=15&margin-h=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanvii-18&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvii-18&layout=compact&theme=dark&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
