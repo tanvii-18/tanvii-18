@@ -1,70 +1,39 @@
-<div align="center">
+  <h2 title="hehehe"> Heyy wasupp?, I'm Tanvi!</h2>
 
-# Hi , I'm Tanvi Patel
+<p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer!;Code.+Create.+Improve.+Repeat.&amp;center=true&amp;width=500&amp;height=50"></a></p>
+<br>
 
-### Full-Stack Developer (MERN Stack)
+<a href="https://www.linkedin.com/in/tanvi-patel18/">
+  <img align="left" alt="Tanvi's LinkedIn" width="28px"
+  src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://x.com/Tanvi_Patel18">
+  <img align="left" alt="Tanvi's Twitter" width="28px"
+  src="https://img.icons8.com/nolan/96/twitterx.png" />
+</a>
 
-</div>
+<br>
+<br>
+<h3>About Me!</h3>
+<p>I'm a full-stack developer and passionate learner who loves building interactive web applications and bringing ideas to life through code. Currently diving deep into the MERN stack, with a focus on React for smooth, responsive UIs and Node.js, Express, and MongoDB for robust backends. Always chasing clean design, seamless user experiences, and continuous growth as a developer.
+<p>
 
-## 🚀 About Me
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a></p>
 
-
-I'm a full-stack developer and passionate learner who loves building interactive web applications and bringing ideas to life through code. Currently diving deep into the MERN stack, with a focus on React for smooth, responsive UIs and Node.js, Express, and MongoDB for robust backends. Always chasing clean design, seamless user experiences, and continuous growth as a developer.
-
-## 📚 Learning & Knowledge
-
-
-<div align="left">
-
-Learning backend development with a focus on scalable and secure MERN stack applications.
-
-</div>
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/https://x.com/Tanvi_Patel18)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-patel18/)&nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvii.tech@gmail.com)
-
-</div>
-
-
-
-## 🛠️ Skills & Technologies
-
-###  Programming Languages
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />
-
-###  Frontend Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="height:30px; width:30px" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
-
-###  Backend Development
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />
-
-###  Database
-
-<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />
-
-###  Other
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />&nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
-
-
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-<div align="center">
-<h3>Grateful for your visit ! Explore the colors of my code and let’s stay connected.</h3>
-</div>
+<p style="text-align:center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&" alt="tanvii-18" /></p>
+<br>
+<p style="text-align:center;">
+  <strong><em>Grateful for your visit! Explore the colors of my code and let’s stay connected.</em></strong>
+</p>
 
 
