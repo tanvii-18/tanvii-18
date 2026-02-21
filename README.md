@@ -36,4 +36,3 @@
   <strong><em>Grateful for your visit! Explore the colors of my code and let’s stay connected.</em></strong>
 </p>
 
-
