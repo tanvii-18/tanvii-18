@@ -32,7 +32,8 @@
 <br>
 <p style="text-align:center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvii-18&" alt="tanvii-18" /></p>
 <br>
-<p style="text-align:center;">
-  <strong><em>Grateful for your visit! Explore the colors of my code and let’s stay connected.</em></strong>
-</p>
+
+<h3 style="align:center;">
+  <em>Grateful for your visit! Explore the colors of my code and let’s stay connected.</em>
+</h3>
 
