@@ -5,7 +5,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   ">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Web+Developer!;Code.+Create.+Improve.+Repeat.&center=true&width=500&height=50&color=7873F5" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer!;Code.+Create.+Improve.+Repeat.&center=true&width=500&height=50&color=7873F5" />
 </h3>
 <br>
 
